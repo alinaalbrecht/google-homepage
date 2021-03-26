@@ -48,7 +48,6 @@ main {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     border-color: rgba(223,225,229,0);
-    
     background: #fff;
     display: flex;
     border: 1px solid #dfe1e5;
@@ -79,36 +78,36 @@ main {
 
 button {
     background-color: #f8f9fa;
-border: 1px solid #f8f9fa;
-border-radius: 4px;
-color: #3c4043;
-font-family: arial,sans-serif;
-font-size: 14px;
-margin: 11px 4px;
-padding: 0 16px;
-line-height: 27px;
-height: 36px;
-min-width: 54px;
-text-align: center;
-cursor: pointer;
-user-select: none;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
 }
 
 button:hover {
     box-shadow: 0 1px 1px rgba(0,0,0,.1);
-background-color: #f8f9fa;
-border: 1px solid #dadce0;
-color: #202124;
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
 }
 
 footer {
     background: #f2f2f2;
     font-size: 15px;
-color: rgba(0,0,0,.54);
-position: fixed;
-bottom: 0;
-left: 0;
-right: 0;
+    color: rgba(0,0,0,.54);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .info {
@@ -117,7 +116,7 @@ right: 0;
 }
 
 .country {
-border-bottom: 1px solid #dadce0;
+    border-bottom: 1px solid #dadce0;
 }
 
 .country ul {
